@@ -1,10 +1,10 @@
-package net.javaguides.sms;
+package nk.sms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudentManagementSystemApplicationTests {
+class SmsApplicationTests {
 
 	@Test
 	void contextLoads() {
